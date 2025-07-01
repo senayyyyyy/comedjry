@@ -28,7 +28,7 @@ jobs:
         run: pip install requests
 
       - name: Alive 1
-        run: curl https://kerimmkirac-vavoo.hf.space/
+        run: curl https://nzo66-tvproxy.hf.space/
 
       - name: Vavoo Tr
         run: python vavoo.py
