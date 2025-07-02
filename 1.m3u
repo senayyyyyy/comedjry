@@ -38,11 +38,11 @@ https://lively1.cf4-85e.workers.dev/static/ss2.m3u8
 #EXTINF:-1 tvg-id="160" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" tvg-name="S Sport Plus" group-title="Spor",S Sport Plus [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/pl1.m3u8
+https://tv.arectv34.sbs/live/pl2.m3u8
 #EXTINF:-1 tvg-id="160" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" tvg-name="S Sport Plus" group-title="Spor",S Sport Plus [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/pl3.m3u8
+https://tv.arectv34.sbs/live/pl2.m3u8
 #EXTINF:-1 tvg-id="160" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" tvg-name="S Sport Plus" group-title="Spor",S Sport Plus [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -62,27 +62,27 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi.m3u8
+https://tv.arectv34.sbs/live/tabi6.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi1.m3u8
+https://tv.arectv34.sbs/live/tabi6.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi2.m3u8
+https://tv.arectv34.sbs/live/tabi6.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi3.m3u8
+https://tv.arectv34.sbs/live/tabi6.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi4.m3u8
+https://tv.arectv34.sbs/live/tabi6.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/tabi5.m3u8
+https://tv.arectv34.sbs/live/tabi6.m3u8
 #EXTINF:-1 tvg-id="157" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" tvg-name="TABİİ SPOR" group-title="Spor",TABİİ SPOR [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -278,7 +278,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="30" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" tvg-name="VIASAT HISTORY" group-title="Belgesel",VIASAT HISTORY [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/viasathistory.m3u8
+https://tv.arectv34.sbs/live/viasatexplore.m3u8
 #EXTINF:-1 tvg-id="30" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" tvg-name="VIASAT HISTORY" group-title="Belgesel",VIASAT HISTORY [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -314,7 +314,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" tvg-name="FASHION TV" group-title="Diğer",FASHION TV [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" tvg-name="FASHION TV" group-title="Diğer",FASHION TV [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
@@ -390,7 +390,7 @@ https://tv.arectv34.sbs/live/sinemakomedi.m3u8
 #EXTINF:-1 tvg-id="56" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" tvg-name="Sinema TV Yerli" group-title="Sinema",Sinema TV Yerli [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
-https://tv.arectv34.sbs/live/sinemayerli.m3u8
+https://tv.arectv34.sbs/live/sinemayerli2.m3u8
 #EXTINF:-1 tvg-id="56" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" tvg-name="Sinema TV Yerli" group-title="Sinema",Sinema TV Yerli [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
