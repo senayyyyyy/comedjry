@@ -5,6 +5,8 @@ m3u_urls = [
     "https://raw.githubusercontent.com/kadirsener1/CanliTvListe/refs/heads/main/yeni.m3u",
     "https://raw.githubusercontent.com/kadirsener1/CanliTvListe/refs/heads/main/rectv.m3u",
     "https://raw.githubusercontent.com/kadirsener1/CanliTvListe/refs/heads/main/trgoals.m3u"
+    "https://raw.githubusercontent.com/kadirsener1/selcuk/refs/heads/main/cafe.m3u"
+    "https://raw.githubusercontent.com/kadirsener1/selcuk/refs/heads/main/5.m3u"
 ]
 
 # Çıktı dosyası adı
