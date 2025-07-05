@@ -131,7 +131,7 @@ if html:
         if m3u8_list:
             write_m3u_file(m3u8_list, referer=referer_url)
         else:
-            print("❌ Hiçbir yayın linki oluşturulamadı.")
+            print(f"📺 cafe.m3u dosyası oluşturuldu! ({kanal_sayisi} kanal)")
     else:
         print("❌ Yayın domaini bulunamadı.")
 else:
