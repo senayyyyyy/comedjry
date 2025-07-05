@@ -67,7 +67,7 @@ def get_canli_tv_m3u():
                 kanal_sayisi += 1
                 kanal_index += 1  
         
-        print(f"📺 yeni.m3u dosyası oluşturuldu! ({kanal_sayisi} kanal)")
+        print(f"📺 kablo.m3u dosyası oluşturuldu! ({kanal_sayisi} kanal)")
         return True
         
     except Exception as e:
